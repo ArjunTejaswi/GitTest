@@ -1,0 +1,161 @@
+[{
+  "_id": {
+    "$oid": "5f4657521b94d24e8071fa11"
+  },
+  "status": true,
+  "deleted": false,
+  "name": "E.I. Du Pont de Nemours & Company, Inc",
+  "title": "Metals Industrial Corporation Customer feedback",
+  "description": "It is refreshing to work with a company that has core values in line with Du Pont. I have never given a contractor this favorable a review. As a matter of fact, this may shock some folks! The project was truly Teamwork in Action – 17 million pounds of plant moved without an injury or argument – Wow! Your dedication and effort is appreciated.",
+  "createdAt": {
+    "$date": "2020-08-26T12:36:34.613Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-26T12:36:34.613Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f46580e1b94d24e8071fa12"
+  },
+  "status": true,
+  "deleted": false,
+  "name": "Shell Chemical LP",
+  "title": "Syndicate metals and alloys Customer feedback",
+  "description": "I want to thank you and all the Syndicate metals and alloys team for the great job that you did for us on the VCM Area Civil/Structural Demolition Project. Your team worked safe, they worked well with all the other companies and personnel involved with the project, and they stuck to the original schedule. Again, thanks and I look forward to working with Syndicate metals and alloys again",
+  "createdAt": {
+    "$date": "2020-08-26T12:39:42.254Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-26T12:39:42.254Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f465a61eb36b84964662ecd"
+  },
+  "status": true,
+  "deleted": false,
+  "name": "Bruno A. Ozols",
+  "title": "Shri Lakshmi Steel Suppliers  Customer Feedback",
+  "description": "Competitive rates, on time delivery and efficient customer service makes Shri Lakshmi Steel Suppliers India one of the best company’s in the industry to work with.",
+  "createdAt": {
+    "$date": "2020-08-26T12:49:37.129Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-26T12:49:37.129Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f465ab1eb36b84964662ece"
+  },
+  "status": true,
+  "deleted": false,
+  "name": "David A. Barrows",
+  "title": "Sai Steel Supplies Customer Feedback",
+  "description": "Interacting with each individual speaks volumes of the kind of organization you are – efficient, organized and result-oriented. If Oscars were given for a product quality, I’d nominate you. Congratulations for your fantastic achievement.",
+  "createdAt": {
+    "$date": "2020-08-26T12:50:57.706Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-26T12:50:57.706Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f465b11eb36b84964662ecf"
+  },
+  "status": true,
+  "deleted": false,
+  "name": " Valero Refining Company",
+  "title": "Amanat Steels private Limited Customer Feedback",
+  "description": "You may use me as a reference at anytime. Great job and safety was excellent as that is a big plus at Valero.",
+  "createdAt": {
+    "$date": "2020-08-26T12:52:33.225Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-26T12:52:33.225Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f465f55b45e4448c07c766a"
+  },
+  "status": true,
+  "deleted": false,
+  "name": "Rohm & Haas",
+  "title": "Shivangi Enterprises Customer Feedback",
+  "description": "Responsive and professional; Concerned about safety and set-up within an operating chemical process",
+  "createdAt": {
+    "$date": "2020-08-26T13:10:45.119Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-26T13:10:45.119Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f465f91b45e4448c07c766b"
+  },
+  "status": true,
+  "deleted": false,
+  "name": "Flint Hills Resources",
+  "title": "Amanat Steels private Limited ",
+  "description": "I would like to thank Midwest Steel for the excellent job they did at our Wilmington Terminal. Everything was done in a safe, professional and timely way. Needless to say, everyone here was impressed",
+  "createdAt": {
+    "$date": "2020-08-26T13:11:45.134Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-26T13:11:45.134Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f465ffeb45e4448c07c766c"
+  },
+  "status": true,
+  "deleted": false,
+  "name": "Motiva Enterprises, LLC",
+  "title": " Ihita Industries Pvt Ltd Feedback",
+  "description": "I feel the service was outstanding. The personnel you sent were very safety conscious and were fantastic workers. I appreciate the job you did at my terminal.",
+  "createdAt": {
+    "$date": "2020-08-26T13:13:34.187Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-26T13:13:34.187Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f472bceb45e4448c07c7670"
+  },
+  "status": true,
+  "deleted": false,
+  "name": "Global Octanes",
+  "title": "Customer feedback",
+  "description": "I just wanted to say “Thanks Again!!” for your excellent performance during the Global Octanes Demolition Project. Your men handled the task at hand in a skillful and safe manner. To complete such a task without a single First Aid Incident is an accomplishment that you should all be proud of.",
+  "createdAt": {
+    "$date": "2020-08-27T03:43:10.812Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-27T03:43:10.812Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f472c0cb45e4448c07c7671"
+  },
+  "status": true,
+  "deleted": false,
+  "name": "Mitsui Corporation",
+  "title": "customer feedback",
+  "description": "Responsive and professional; Concerned about safety and set-up within an operating chemical process.",
+  "createdAt": {
+    "$date": "2020-08-27T03:44:12.769Z"
+  },
+  "updatedAt": {
+    "$date": "2020-08-27T03:44:12.769Z"
+  },
+  "__v": 0
+}]
